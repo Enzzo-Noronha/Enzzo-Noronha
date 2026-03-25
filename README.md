@@ -1,4 +1,19 @@
-<h2 align="left">💻 Sou Enzzo, desenvolvedor full-stack em formação 🚀  <br><br>🎓 Estudante de informática em escola profissionalizante  <br>🎯 Objetivo: me tornar Engenheiro de Software  <br>🧠 Tenho cerca de 2 anos de experiência com programação  <br>⚙️ Atuo com desenvolvimento front-end e back-end  <br>🚀 Apaixonado por criar projetos reais e ideias SaaS  <br>🌱 Sempre aprendendo e evoluindo minhas habilidades  <br><br>❓ Pergunte-me sobre desenvolvimento web, lógica de programação e projetos  <br><br>⚡ Curiosidade: Prefiro aprender criando projetos na prática do que só teoria  <br><br>🌱 Evoluindo como desenvolvedor full-stack  <br>📚 Aprendendo mais sobre back-end e sistemas escaláveis  <br>🚀 Criando projetos reais e ideias SaaS</h2>
+<h2 align="left">💻 Sou Enzzo, desenvolvedor full-stack em formação
+
+🎓 Estudante de informática em escola profissionalizante  
+🎯 Objetivo: me tornar Engenheiro de Software  
+🧠 Tenho cerca de 2 anos de experiência com programação  
+⚙️ Atuo com desenvolvimento front-end e back-end  
+🚀 Interesse em criar projetos reais e sistemas SaaS  
+📚 Sempre aprendendo e evoluindo minhas habilidades
+
+❓ Pergunte-me sobre desenvolvimento web, lógica de programação e projetos
+
+⚡ Curiosidade: Prefiro aprender criando projetos na prática
+
+🌱 Evoluindo como desenvolvedor full-stack  
+🧩 Aprendendo mais sobre back-end e sistemas escaláveis  
+🚀 Criando projetos e novas ideias</h2>
 
 ###
 
