@@ -1,4 +1,5 @@
-<h2 align="left">💻 Sou Enzzo, desenvolvedor full-stack em formação
+<h2 align="left">
+  <h1>💻 Sou Enzzo, desenvolvedor full-stack em formação</h1><br>
 
 🎓 Estudante de informática em escola profissionalizante  
 🎯 Objetivo: me tornar Engenheiro de Software  
