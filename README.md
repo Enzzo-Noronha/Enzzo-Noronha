@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="left">💻 Sou Enzzo, desenvolvedor full-stack em formação 🚀  <br><br>🎓 Estudante de informática em escola profissionalizante  <br>🎯 Objetivo: me tornar Engenheiro de Software  <br>🧠 Tenho cerca de 2 anos de experiência com programação  <br>⚙️ Atuo com desenvolvimento front-end e back-end  <br>🚀 Apaixonado por criar projetos reais e ideias SaaS  <br>🌱 Sempre aprendendo e evoluindo minhas habilidades  <br><br>❓ Pergunte-me sobre desenvolvimento web, lógica de programação e projetos  <br><br>⚡ Curiosidade: Prefiro aprender criando projetos na prática do que só teoria  <br><br>🌱 Evoluindo como desenvolvedor full-stack  <br>📚 Aprendendo mais sobre back-end e sistemas escaláveis  <br>🚀 Criando projetos reais e ideias SaaS</h2>
 
 ###
 
@@ -27,5 +27,13 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
