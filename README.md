@@ -18,8 +18,6 @@
 ❓ Desenvolvimento web, lógica de programação e projetos
 </h3>
 
-<br>
-
 <h3 align="left">
 ⚡ Prefiro aprender criando projetos na prática
 </h3>
